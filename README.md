@@ -25,7 +25,7 @@
 
  </br>
 
-  style="letter-spacing:1px;font-weight:700;font-family:'segoe ui';color:rgb(100,100,200);padding: 0px 0px 0px 10px;margin:0px 0px 0px 2em;""
+  <a style="letter-spacing:1px;font-weight:700;font-family:'segoe ui';color:rgb(100,100,200);padding: 0px 0px 0px 10px;margin:0px 0px 0px 2em;""
        href="https://www.facebook.com/jayson.deleon.393"
        style="margin:0px 0px">
        <image alt="facebook-logo"
