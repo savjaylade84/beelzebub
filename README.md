@@ -1,4 +1,4 @@
-# Beelzeb
+# Beelzebub
 ### my very first malicious code in python that fill the  storage with random files
 
  <hr>
