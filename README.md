@@ -27,9 +27,10 @@
 
   <a style="letter-spacing:1px;font-weight:700;font-family:'segoe ui';color:rgb(100,100,200);padding: 0px 0px 0px 10
       href="https://www.facebook.com/jayson.deleon.393"
-      style="margin:0px 0px">                                                                                       163     <image alt="facebook-logo"
-      src="./images/facebook.png"
-      style="padding:0px 10px 0px 0px "                                                                             166     width=22 height=22></a>&nbsp;&nbsp;                                                                           167 &nbsp;&nbsp;
+      style="margin:0px 0px">
+      <image alt="facebook-logo"src="./images/facebook.png"
+      style="padding:0px 10px 0px 0px "
+      width=22 height=22></a>&nbsp;&nbsp;                                                                           167 &nbsp;&nbsp;
   <a style="letter-spacing:1px;font-weight:700;font-family:'segoe ui';color:rgb(100,100,200);padding: 0px 10px;margi
        href="https://www.instagram.com/savjaylade84/"
        style="margin:0px 10px">
