@@ -8,7 +8,9 @@
 
  <p style="font-size:1.15em;color:rgba(200,200,200,1);padding: 0px;margin:0px;">Get My Resume on</p>
  </br>
- <p style="font-size:1.1em;color:rgba(170,170,170,1);padding: 0px;margin:0px;"> <a style="letter-spacing:1px;font-weight:700;font-family:'
+ <p style="font-size:1.1em;color:rgba(170,170,170,1);padding: 0px;margin:0px;"> 
+ <a style="letter-spacing:1px;font-weight:700;font-family:'segoe ui';color:rgb(100,100,200);padding: 0px;margin:0px;"
+  href="https://drive.google.com/file/d/1jqE7Q4zoNcbGpgAxGEDVQsFWSe7kCJn/view?usp=drivesdk">Google Drive </a></p>
 
  </br>
  </br>
